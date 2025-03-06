@@ -39,14 +39,16 @@ In this lab, I built a home Security Operations Center (SOC) in Azure to monitor
 ![image](https://github.com/user-attachments/assets/9106abce-1ee0-4da3-82a5-84ec6de61a36)
 
 
--Pinging the Virtual Machine.
+- Pinging the Virtual Machine.
 
 ![Ping VM](https://github.com/user-attachments/assets/137a39c6-6a3c-450e-8941-f1f300f071f5)
+
 
   
 - Log Collection & Analysis: Set up Log Analytics Workspace to store and query security logs.
 
 ![Log Analytics Workspace](https://github.com/user-attachments/assets/f587502b-b4ad-46dc-9ea7-f2d2d006d808)
+
 
 
 - Threat Investigation with KQL: Analyze failed login attempts and attack patterns using Kusto Query Language (KQL).
