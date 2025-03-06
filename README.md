@@ -1,4 +1,4 @@
-<h1>Implementing a SOC and Honeypot in Azure</h1>
+<h1>Implementing a SOC and Honeypot in Azure :honey_pot:</h1>
 
 
 <h2>Description</h2>
@@ -10,15 +10,15 @@ In this lab, I built a home Security Operations Center (SOC) in Azure to monitor
 
 <h2>Languages and Utilities Used</h2>
 
-- Microsoft Azure – Cloud environment for deploying security infrastructure.
-- Azure Virtual Machines (VMs) – Hosted the honeypot system.
-- Remote Desktop Protocol (RDP) – Connected to and managed the VM remotely.
-- Azure Log Analytics Workspace – Centralized log storage and management.
-- Log Analytics Agent – Forwarded logs from the VM to Log Analytics Workspace.
-- Microsoft Sentinel – SIEM tool for analyzing security events and detecting threats.
-- Kusto Query Language (KQL) – Used for querying and analyzing logs.
-- Geolocation Enrichment – Mapped attacker IP addresses to physical locations.
-- Attack Map – Visualized real-time threat activity.
+- <b>Microsoft Azure</b> – Cloud environment for deploying security infrastructure.
+- <b>Azure Virtual Machines (VMs)</b> – Hosted the honeypot system.
+- <b>Remote Desktop Protocol (RDP)</b> – Connected to and managed the VM remotely.
+- <b>Azure Log Analytics Workspace</b> – Centralized log storage and management.
+- <b>Log Analytics Agent</b> – Forwarded logs from the VM to Log Analytics Workspace.
+- <b>Microsoft Sentinel</b> – SIEM tool for analyzing security events and detecting threats.
+- <b>Kusto Query Language (KQL)</b> – Used for querying and analyzing logs.
+- <b>Geolocation Enrichment</b> – Mapped attacker IP addresses to physical locations.
+- <b>Attack Map</b> – Visualized real-time threat activity.
 
 <h2>Environments Used </h2>
 
@@ -38,6 +38,10 @@ In this lab, I built a home Security Operations Center (SOC) in Azure to monitor
   
 ![image](https://github.com/user-attachments/assets/9106abce-1ee0-4da3-82a5-84ec6de61a36)
 
+
+-Pinging the Virtual Machine.
+
+![Ping VM](https://github.com/user-attachments/assets/137a39c6-6a3c-450e-8941-f1f300f071f5)
 
   
 - Log Collection & Analysis: Set up Log Analytics Workspace to store and query security logs.
