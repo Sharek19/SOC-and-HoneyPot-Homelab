@@ -28,6 +28,8 @@ In this lab, I built a home Security Operations Center (SOC) in Azure to monitor
 
 <p align="center">
 
+- Incident Detection & Response: Simulate real-world SOC operations by detecting and analyzing security events.
+  
 - Azure Virtual Machine Deployment: Create and configure a VM to simulate an exposed system.
 
 ![Virtual Machine](https://github.com/user-attachments/assets/b5546acd-8c3a-4307-bcdf-2bf671023807)
@@ -68,8 +70,6 @@ In this lab, I built a home Security Operations Center (SOC) in Azure to monitor
 ![image](https://github.com/user-attachments/assets/3b024be1-76b0-4525-b20c-5ded3fa2b906)
 
 
-
-- Incident Detection & Response: Simulate real-world SOC operations by detecting and analyzing security events.
 <br />
 
 
